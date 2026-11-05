@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-automation-modulation-flutter",
+  "capabilityKey": "liberusoftware/music-automation-modulation",
+  "presentation": "mobile-flutter",
+  "package": "module_music_automation_modulation_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/music/nextjs/automation-modulation.md",
+  "presentationPlan": "projects/music/flutter/automation-modulation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
